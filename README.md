@@ -49,7 +49,8 @@ EDA involved exploring the sales data to answer key questions, such as:
 
 ### INSIGHT AND RECOMMENDATION
 
-[T G.A VENTURES.pptx](https://github.com/user-attachments/files/17005178/T.G.A.VENTURES.pptx)
+[T G.A VENTURES.pptx](https://github.com/user-attachments/files/17005189/T.G.A.VENTURES.pptx)
+
 
 ### DASHBOARD
 
