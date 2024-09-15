@@ -42,7 +42,7 @@ EDA involved exploring the sales data to answer key questions, such as:
 -  What are the Profits by Region?
 -  What are the Top 10 Sub-Categories by Quantity?
 -  What are the Top 5 most Expensive Products?
--  Which states are the Top 5 States by Quantity
+-  Which states are the Top 5 States by Quantity?
 -  What are the Category by Profits?
 - What are the Top 5 Products by Categories?
 - Wat are the Top 10 Sub-Category by Sales?
