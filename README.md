@@ -1,2 +1,49 @@
-# T-G.A-Ventures-Dashboard
-My power point assignment
+# T.GA VENTURES SALES ANALYSIS
+
+## TABLE OF CONTENT
+
+- [Project Overview](#project-review)
+- [Data Sources](#data-sources)
+- [Tools](#tools)
+- [Data Cleaning](#data-cleaning)
+- [Exploratory Data Analysis](#exploratory-data-analysis)
+### PROJECT REVIEW
+
+This data analysis project is designed to offer insights into the sales performance of T.GA VENTURES over the past year. By examining different elements of the sales data, we aim to identify trends, provide data-driven recommendations, and gain a more comprehensive understanding of the company's overall performance.
+
+### DATA SOURCES
+
+Super Store Data: The primnary dataset used for this analysis is the "superstore_data.csv" file. containing detailed information about each sale made by the company.
+
+### TOOLS
+
+- Excel - Data clearning & creating reports
+- PowerPoint - Finalizing reports
+
+
+  ### DATA CLEANING
+
+  During the initial data preparation phase, we carried out the following tasks:
+  1. Data loading and review.
+  2. Data cleaning and formatting.
+ 
+
+### EXPLORATORY DATA ANALYSIS
+
+EDA involved exploring the sales data to answer key questions, such as: 
+
+- What are the Top 10 Sub-Categories by Quantity?
+- What are the Top 5 Products by Categories?
+- What are the Profits by Region?
+- What are the Sales by Region?
+- What are the Top 10 customers Discounts?
+- Who are the Bottom 5 Sales Representatives?
+- What is the overall Sales Trend?
+- What are the Top 5 most Expensive Products?
+- Which states are the Top 5 States by Quantity
+- What are the Category by Profits
+- What are the Top 10 Sub-Category by Profits?
+  
+     
+  
+
