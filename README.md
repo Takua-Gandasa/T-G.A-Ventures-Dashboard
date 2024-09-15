@@ -36,17 +36,20 @@ Super Store Data: The primnary dataset used for this analysis is the "superstore
 ---
 EDA involved exploring the sales data to answer key questions, such as: 
 
-- What are the Top 10 Sub-Categories by Quantity?
+-  What is the overall Sales Trend?
+-  What are the Sales by Region?
+-  What are the Top 10 customers Discounts?
+-  What are the Profits by Region?
+-  What are the Top 10 Sub-Categories by Quantity?
+-  What are the Top 5 most Expensive Products?
+-  Which states are the Top 5 States by Quantity
+-  What are the Category by Profits?
 - What are the Top 5 Products by Categories?
-- What are the Profits by Region?
-- What are the Sales by Region?
-- What are the Top 10 customers Discounts?
+- Wat are the Top 10 Sub-Category by Sales?
+- What are the Category by Quantity?
+- What are the Top 10 sub-Categories by Profit?
 - Who are the Bottom 5 Sales Representatives?
-- What is the overall Sales Trend?
-- What are the Top 5 most Expensive Products?
-- Which states are the Top 5 States by Quantity
-- What are the Category by Profits
-- What are the Top 10 Sub-Category by Profits?
+
 
 ### DASHBOARD
 ---
