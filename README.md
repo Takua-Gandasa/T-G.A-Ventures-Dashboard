@@ -7,6 +7,9 @@
 - [Tools](#tools)
 - [Data Cleaning](#data-cleaning)
 - [Exploratory Data Analysis](#exploratory-data-analysis)
+- [Insight and Recommendation](#insight-and-recommendation)
+- [Dashboard](#dashboard)
+  
 ### PROJECT REVIEW
 
 This data analysis project is designed to offer insights into the sales performance of T.GA VENTURES over the past year. By examining different elements of the sales data, we aim to identify trends, provide data-driven recommendations, and gain a more comprehensive understanding of the company's overall performance.
@@ -43,7 +46,11 @@ EDA involved exploring the sales data to answer key questions, such as:
 - Which states are the Top 5 States by Quantity
 - What are the Category by Profits
 - What are the Top 10 Sub-Category by Profits?
-  
-     
+
+### INSIGHT AND RECOMMENDATION
+
+### DASHBOARD
+
+
   
 
