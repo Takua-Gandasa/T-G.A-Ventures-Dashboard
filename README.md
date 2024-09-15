@@ -7,8 +7,9 @@
 - [Tools](#tools)
 - [Data Cleaning](#data-cleaning)
 - [Exploratory Data Analysis](#exploratory-data-analysis)
+-  [Dashboard](#dashboard)
 - [Insight and Recommendation](#insight-and-recommendation)
-- [Dashboard](#dashboard)
+
   
 ### PROJECT REVIEW
 
@@ -47,12 +48,13 @@ EDA involved exploring the sales data to answer key questions, such as:
 - What are the Category by Profits
 - What are the Top 10 Sub-Category by Profits?
 
+### DASHBOARD
+![T G A](https://github.com/user-attachments/assets/acb53892-842d-4c78-be49-9033ebd277db)
+
 ### INSIGHT AND RECOMMENDATION
 
 [T G.A VENTURES.pptx](https://github.com/user-attachments/files/17005189/T.G.A.VENTURES.pptx)
 
 
-### DASHBOARD
 
-![T G A](https://github.com/user-attachments/assets/acb53892-842d-4c78-be49-9033ebd277db)
 
