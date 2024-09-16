@@ -8,7 +8,10 @@
 - [Data Cleaning](#data-cleaning)
 - [Exploratory Data Analysis](#exploratory-data-analysis)
 -  [Dashboard](#dashboard)
+-  [Insight](#insight)
+-  [Recommendation](#recommendation)
 - [Insight and Recommendation](#insight-and-recommendation)
+
 
   
 ### PROJECT REVIEW
