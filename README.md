@@ -60,6 +60,7 @@ EDA involved exploring the sales data to answer key questions, such as:
 
 
 
+
 ### INSIGHT
 ---
 ##### 1. TOP 10 SUB-CATEGORY BY QUANTITY
