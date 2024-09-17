@@ -99,7 +99,7 @@ EDA involved exploring the sales data to answer key questions, such as:
 #### 9. TOP 5 STATES BY QUANTITY
 
 - California is the leading state in product sales by a large margin, followed by New York and Texas. Pennsylvania and Washington have smaller sales quantities
-- 
+ 
 #### 10. CATEGORY BY QUANTITY
 
 - Technology is the most profitable category, followed by Office Supplies. Furniture generates the least profit, suggesting it may face challenges or inefficiencies. 
@@ -146,7 +146,7 @@ Phones and Chairs are the top-selling subcategories, significantly leading in sa
 
   #### 7. SALES TREND
 
-  - Build on the successful strategies from 2016 and 2017 to sustain and further enhance growth. Analyze what contributed to the rebound and continued success, and apply those insights to maintain momentum and address any potential challenges. ![image](https://github.com/user-attachments/assets/772e0f91-78ad-4e18-a4c7-704cd1c7ff05)
+- Build on the successful strategies from 2016 and 2017 to sustain and further enhance growth. Analyze what contributed to the rebound and continued success, and apply those insights to maintain momentum and address any potential challenges.
 
 #### 8. TOP 5 MOST EXPENSIVE PRODUCTS
 
