@@ -69,92 +69,79 @@ EDA involved exploring the sales data to answer key questions, such as:
 ##### 2. TOP 5 PRODUCTS BY CATEGORY
 
 - The firm's revenue is heavily concentrated in its top three products—Staple Envelop, Easy Staple Paper, and Staple—which together account for 79% of the take. This suggests the firm is reliant on a few key products.
-![image](https://github.com/user-attachments/assets/970c4e4c-1f43-489b-bfeb-4f266d08538a)
 
 
 #### 3. PROFIT BY REGION
 
-- The firm's profits are concentrated in the West and East, with the West leading at $108,418 and the East generating $91,522. The South ($46,749) and Central ($39,706) regions lag behind, indicating potential challenges or untapped opportunities in these areas![image](https://github.com/user-attachments/assets/3c37181d-ab17-41f8-8741-f473d517a72c)
+- The firm's profits are concentrated in the West and East, with the West leading at $108,418 and the East generating $91,522. The South ($46,749) and Central ($39,706) regions lag behind, indicating potential challenges or untapped opportunities in these areas
 
 #### 4. SALES BY REGION
 
 - Sales are concentrated in the West (32%) and East (29%), making them the firm's strongest regions. The Central (22%) region has a moderate share, while the South (17%) is the weakest in terms of sales, indicating potential challenges in market penetration.
-![image](https://github.com/user-attachments/assets/48c594f0-56cc-4bb9-ac75-d11b279e8631)
 
 #### 5. TOP 10 CUSTOMERS DISCOUNT
 
 - The top 10 customers receive high discounts, with the highest ranging from 7.9 to 6.2. While this discount strategy may help retain key customers, it could impact profitability.
-![image](https://github.com/user-attachments/assets/f88928c5-08f3-4add-9a4c-ee113a8d76d8)
 
 #### 6. BOTTOM 5 SALES BY REP
 
 - The bottom five sales representatives have relatively close sales figures, but Jessica Smith has the lowest performance at $50,206. 
-![image](https://github.com/user-attachments/assets/3db68028-8c3d-4e78-bdf7-e1fed253d39c)
 
 #### 7. SALES TREND
 
 - After a sales decline in 2015, the firm experienced strong growth in 2016 and 2017, with sales reaching their highest in 2017. The upward trend suggests effective strategies were implemented following 2015, leading to significant improvements.
-![image](https://github.com/user-attachments/assets/9be23ea2-731d-4a71-a8e2-07f6aa9937f3)
 
 #### 8. TOP 5 MOST EXPENSIVE PRODUCTS
 
 - The top five most expensive products are dominated by Staple Envelop (27%) and Easy-Staple Paper and Staples (26% each). Avery Non-Stick Binders (11%) and Staples in Misc. Colors (10%) have smaller shares. Focusing on managing and optimizing the top products will be crucial for maximizing profitability.
-![image](https://github.com/user-attachments/assets/39f67edb-5910-4c17-816e-6be887a859c2)
 
 #### 9. TOP 5 STATES BY QUANTITY
 
-- California is the leading state in product sales by a large margin, followed by New York and Texas. Pennsylvania and Washington have smaller sales quantities![image](https://github.com/user-attachments/assets/b714667e-2f96-4b1d-8b2c-b9f0982fd377)
-
+- California is the leading state in product sales by a large margin, followed by New York and Texas. Pennsylvania and Washington have smaller sales quantities
+- 
 #### 10. CATEGORY BY QUANTITY
 
 - Technology is the most profitable category, followed by Office Supplies. Furniture generates the least profit, suggesting it may face challenges or inefficiencies. 
-![image](https://github.com/user-attachments/assets/3181c7ca-3fa0-4c6f-8bb1-45f9644f2b16)
 
 #### 11.TOP 10 SUB-CATEGORIES BY SALES
 
 Phones and Chairs are the top-selling subcategories, significantly leading in sales compared to others. 
-![image](https://github.com/user-attachments/assets/66e94eec-524e-4e48-adfa-59c16f322f1b)
 
 #### 12. CATEGORY BY QUANTITY
 
 - Office Supplies lead in sales volume with 61%, while Furniture accounts for 21% and Technology 18%. This indicates high demand for Office Supplies, with Furniture and Technology having smaller sales shares.
-![image](https://github.com/user-attachments/assets/4237a354-946f-4f69-b462-a8ee69b1251d)
 
 #### 13. TOP 10 SUB-CATEGORY BY PROFIT
 
-- Copiers, Phones, and Accessories are the top profit-generating subcategories. They significantly outperform others in profitability, while Envelopes, Furnishings, and Appliances contribute the least.![image](https://github.com/user-attachments/assets/bf9fed6f-475e-41d1-aa89-7f7e6739206c)
-
+- Copiers, Phones, and Accessories are the top profit-generating subcategories. They significantly outperform others in profitability, while Envelopes, Furnishings, and Appliances contribute the least.
 
 
 ### RECOMMENDATION
 ---
 #### 1. TOP 10 SUB-CATEGORIES BY QUANTITY
 
-- My recommendation is to focus on maintaining strong inventory for high-demand consumables like binders and paper, while also exploring opportunities to boost margins in other categories, and re-strategize to increase their turnover![image](https://github.com/user-attachments/assets/884d3c24-f26a-489b-a2aa-6101a82dd29f)
+- My recommendation is to focus on maintaining strong inventory for high-demand consumables like binders and paper, while also exploring opportunities to boost margins in other categories, and re-strategize to increase their turnover
 
 #### 2. TOP 5 PRODUCTS BY CATEGORY
 
 - Focus on maintaining the strong performance of the top products while exploring ways to boost sales for lower-performing items that couldn’t make it to the Top 5. Diversifying product success can reduce risk and drive overall growth.
-![image](https://github.com/user-attachments/assets/c7f7200a-25e6-4f85-a657-d43b0dbda4d5)
 
 #### 3. PROFIT BY REGION
 
 - Prioritize maintaining and expanding the strong performance in the West and East regions. Investigate the South and Central regions to identify challenges or opportunities for growth, and implement strategies to boost profitability in these underperforming areas.
-![image](https://github.com/user-attachments/assets/5b907806-1107-4963-a864-c2e89a365fa1)
 
 #### 4. SALES BY REGION
 
 - The sales distribution across regions shows that the West (32%) and East (29%) dominate the firm’s sales, contributing a combined total of 61%. This aligns with the earlier observation of high profits in these regions, indicating strong market presence and customer demand.
-![image](https://github.com/user-attachments/assets/6bfa3876-e6b7-440f-a1d6-6d85cc1e5eb9)
+- 
 
 #### 5. TOP 10 CUSTOMERS DISCOUNTS
 
 - Evaluate the impact of high discounts on profitability and sales volume. Consider whether these discounts are justified by the returns in customer retention and revenue, and adjust discount strategies as needed to balance customer incentives with profitability.
-![image](https://github.com/user-attachments/assets/5eb0084d-a5e5-4d66-be99-17e8b91b089c)
 
 #### 6. BOTTOM 5 SALES BY REP
 
-- There are opportunities for improvement, particularly for everyone within this group. Analyze the sales strategies of the lower-performing representatives and provide targeted training or support to help improve their performance.![image](https://github.com/user-attachments/assets/4197c08e-4a49-4606-bd10-c009e75b0ede)
+- There are opportunities for improvement, particularly for everyone within this group. Analyze the sales strategies of the lower-performing representatives and provide targeted training or support to help improve their performance.
 
   #### 7. SALES TREND
 
@@ -163,29 +150,28 @@ Phones and Chairs are the top-selling subcategories, significantly leading in sa
 #### 8. TOP 5 MOST EXPENSIVE PRODUCTS
 
 - Prioritize managing and optimizing the top three products (Staple Envelop, Easy-Staple Paper, and Staples) to maximize profitability. Also, consider strategies to improve the performance of the lower-share products (Avery Non-Stick Binders and Staples in Misc. Colors)
-  ![image](https://github.com/user-attachments/assets/d970931d-8ab9-472f-b06e-e67e61c0502e)
+
 
 #### 9. TOP 5 STATES BY QUANTITY
 
-- Focus on expanding and optimizing sales strategies in California, and use insights from this top-performing state to boost sales in New York, Texas, Pennsylvania, and Washington.![image](https://github.com/user-attachments/assets/63c227e1-2831-475d-a6d8-3623ac27c7e2)
+- Focus on expanding and optimizing sales strategies in California, and use insights from this top-performing state to boost sales in New York, Texas, Pennsylvania, and Washington.
 
 #### 10. CATEGORY BY PROFIT
 
-- Prioritize expanding and optimizing the Technology and Office Supplies categories to maximize profitability. Also, address challenges in the Furniture category to improve its profit performance.![image](https://github.com/user-attachments/assets/5b38041b-127d-463b-a4b5-009d109ad4e9)
-
+- Prioritize expanding and optimizing the Technology and Office Supplies categories to maximize profitability. Also, address challenges in the Furniture category to improve its profit performance.
+  
 #### 11. TOP 10 SUB-CATEGORIES BY SALES
 
 - Maintain and strengthen the performance of Phones and Chairs, while developing strategies to boost sales in the lower-performing subcategories.
-![image](https://github.com/user-attachments/assets/199830d2-9d87-4cc4-95e0-33dda1ec946d)
 
 #### 12. CATEGORY BY QUANTITY
 
-- Focus on optimizing strategies for Office Supplies to maintain its strong sales volume. Additionally, develop initiatives to increase sales of Furniture and Technology to balance the overall sales distribution.![image](https://github.com/user-attachments/assets/ce9ad356-731a-43ae-9fd2-3a432115179b)
+- Focus on optimizing strategies for Office Supplies to maintain its strong sales volume. Additionally, develop initiatives to increase sales of Furniture and Technology to balance the overall sales distribution.
 
 #### 13. TOP 10 SUB-CATEGORY BY PROFIT
 
-- Focus on optimizing strategies for Office Supplies to maintain its strong sales volume. Additionally, develop initiatives to increase sales of Furniture and Technology to balance the overall sales distribution.![image](https://github.com/user-attachments/assets/fe2be1c7-87aa-4c94-a0ab-d1574c985115)
-
+- Focus on optimizing strategies for Office Supplies to maintain its strong sales volume. Additionally, develop initiatives to increase sales of Furniture and Technology to balance the overall sales distribution.
+  
 ### INSIGHT AND RECOMMENDATION
 ---
 [T G.A VENTURES.pptx](https://github.com/user-attachments/files/17005189/T.G.A.VENTURES.pptx)
