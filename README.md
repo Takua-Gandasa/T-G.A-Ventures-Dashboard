@@ -134,7 +134,7 @@ Phones and Chairs are the top-selling subcategories, significantly leading in sa
 #### 4. SALES BY REGION
 
 - The sales distribution across regions shows that the West (32%) and East (29%) dominate the firm’s sales, contributing a combined total of 61%. This aligns with the earlier observation of high profits in these regions, indicating strong market presence and customer demand.
-- 
+
 
 #### 5. TOP 10 CUSTOMERS DISCOUNTS
 
@@ -144,7 +144,7 @@ Phones and Chairs are the top-selling subcategories, significantly leading in sa
 
 - There are opportunities for improvement, particularly for everyone within this group. Analyze the sales strategies of the lower-performing representatives and provide targeted training or support to help improve their performance.
 
-  #### 7. SALES TREND
+#### 7. SALES TREND
 
 - Build on the successful strategies from 2016 and 2017 to sustain and further enhance growth. Analyze what contributed to the rebound and continued success, and apply those insights to maintain momentum and address any potential challenges.
 
