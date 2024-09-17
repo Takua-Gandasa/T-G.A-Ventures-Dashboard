@@ -56,7 +56,8 @@ EDA involved exploring the sales data to answer key questions, such as:
 
 ### DASHBOARD
 ---
-![T G A](https://github.com/user-attachments/assets/acb53892-842d-4c78-be49-9033ebd277db)
+[T G.A VENTURES.pptx](https://github.com/user-attachments/files/17024677/T.G.A.VENTURES.pptx)
+
 
 ### INSIGHT
 ---
